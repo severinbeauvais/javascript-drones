@@ -1,34 +1,19 @@
 # JavaScript Drones!
 
-
-
 ## Using This Code
-
-
 
 ### Frontend
 
-
-
-1. cd `frontend`
-
-1. `npm install`
-
+1. `cd frontend`
+1. `yarn`
 1. `npm run dev`
-
-
-
 
 ### Backend
 
-
-1. cd `backend`
-
-1. `npm install`
-
+1. `cd backend`
+1. `yarn`
 1. connect to drone via wifi
-
-1. `npm start`
+1. `npm start` or `nodemon fly.js` or `node fly.js`
 
 ## References
 

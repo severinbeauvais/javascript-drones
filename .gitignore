@@ -10,3 +10,4 @@ build/
 .cache/
 .next/
 .DS_store
+yarn.lock

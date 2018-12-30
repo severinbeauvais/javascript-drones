@@ -1,0 +1,21 @@
+{
+  "name": "javascript-drones-backend",
+  "version": "1.0.0",
+  "main": "fly.js",
+  "repository": "git@github.com:severinbeauvais/javascript-drones.git",
+  "author": "Severin Beauvais <severin.beauvais@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon fly.js"
+  },
+  "private": true,
+  "dependencies": {
+    "express": "^4.16.4",
+    "lodash": "^4.17.11",
+    "socket.io": "^2.2.0",
+    "waait": "^1.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}

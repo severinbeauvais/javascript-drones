@@ -1,0 +1,13 @@
+{
+  "name": "javascript-drones-frontend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:severinbeauvais/javascript-drones.git",
+  "author": "Severin Beauvais <severin.beauvais@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+  },
+  "private": true,
+  "dependencies": {
+  }
+}
